@@ -375,7 +375,12 @@
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/First Person Player/SceneSwitchGen.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow1.cs"
+"Assets/QuickOutline/Scripts/Outline.cs"
 "Assets/Scripts/FPSController.cs"
+"Assets/Scripts/LoadScene.cs"
+"Assets/Scripts/OutlineSelection.cs"
+"Assets/Scripts/OutlineSelector.cs"
+"Assets/Scripts/Selection.cs"
 -langversion:9.0
 
 /deterministic
